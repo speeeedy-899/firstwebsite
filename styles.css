@@ -1,0 +1,26 @@
+  body
+  {
+    background-color: #EAF6F6;
+  }
+
+  hr
+  {
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: silver;
+    border-width: thick;
+    height: 2px;
+    width: 3%;
+  }
+
+  h1{
+    color: #66BFBF;
+  }
+
+  h2{
+    color: #66BFBF;
+  }
+
+  h3{
+    color: #66BFBF;
+  }
